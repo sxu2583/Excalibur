@@ -1,18 +1,12 @@
 .test{
   text-align: center;
   font-family: sans-serif;
-  color: magenta;
 }
 
 .content{
   text-align: center;
-  background-color: green;
-}
-
-p{
-  color: white;
 }
 
 body{
-  background-color: black;
+  background-color: grey;
 }
