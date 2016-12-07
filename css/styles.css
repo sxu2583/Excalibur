@@ -9,7 +9,7 @@
 
 body{
   background-color: gold;
-  background-image: url(assets/Media/images/excalibar.gif);
+  background-image: url('../assets/Media/images/excalibar.gif');
 }
 
 p{
