@@ -9,7 +9,7 @@
 
 body{
   background-color: gold;
-  background-image: url("assets/Media/images/excalibar.gif");
+  background-image: url(assets/Media/images/excalibar.gif);
 }
 
 p{
@@ -21,4 +21,3 @@ p{
   border-radius: 4px;
   max-width: 100%;
 }
-*/
