@@ -9,8 +9,16 @@
 
 body{
   background-color: gold;
+  background-image: url("assets/Media/images/excalibar.gif");
 }
 
 p{
   font-family: 'sans-serif'
 }
+
+/*
+.ex{
+  border-radius: 4px;
+  max-width: 100%;
+}
+*/
